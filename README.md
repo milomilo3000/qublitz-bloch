@@ -1,4 +1,4 @@
-# Qublitz — Interactive 1-Qubit & 2-Qubit Quantum Workbench
+# Qublitz Create Challenge - Interactive Bloch Sphere Visualizer
 
 An interactive 3D quantum state and circuit visualizer built for the **Qublitz 2026 Create Challenge**. Qublitz bridges rigorous quantum mechanics ($2 \times 2$ and $4 \times 4$ density matrices, partial traces, and concurrence) with intuitive visual feedback so anyone—from first-time learners to quantum researchers—can see how quantum states, superposition, decoherence, and entanglement behave in real time.
 
